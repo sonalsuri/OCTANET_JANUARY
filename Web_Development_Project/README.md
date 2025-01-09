@@ -1,4 +1,5 @@
-# Landing Page Project
+# Project1
+## Landing Page Project
 
 ## Project Description:
 This project is a simple ATM landing page built using HTML and CSS. The design is responsive and visually appealing, showcasing an image-driven layout. It includes elements like social media icons, image galleries, and sections for displaying various content, such as "Popular", "Latest", and more.
