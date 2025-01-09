@@ -1,5 +1,5 @@
-# OCTANET_JANUARY
-#ATM Machine Application
+
+# ATM Machine (Project1)
 
 ## Description
 This project is a Java-based ATM Machine application developed as part of my internship at OctaNet Services Pvt Ltd in January 2025. 
