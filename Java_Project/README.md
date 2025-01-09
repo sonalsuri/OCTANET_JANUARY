@@ -17,5 +17,7 @@ I created this project using my knowledge of Object-Oriented Programming (OOP) i
 
 ## Technologies Used
 *Java: Core programming language.
+
 *Console-based UI: Used for simplicity.
+
 *IDE: Visual Studio Code.
