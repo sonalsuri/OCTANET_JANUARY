@@ -3,6 +3,7 @@ Welcome to the OctaNet_January repository! This repository contains all the proj
 
 ## Folder Structure
 *Web_Development_Project/: Contains all web development projects (HTML, CSS, JS).
+
 *Java_Project/: Contains Java programming projects.
 
 # Projects Overview
